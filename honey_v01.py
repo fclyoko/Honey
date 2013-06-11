@@ -1,7 +1,6 @@
 #!/usr/bin/python
 #Honey v0.1 - Http Server
-#Autor: Francisco Hdez (lko)
-#Email: fclyoko@gmail.com
+
 
 import socket, sys, time
 
